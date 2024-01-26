@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, my name is Alexander Cherepanov and i <3 programming 👋
+## Education
+In june 2009 graduated from Khakassian State University named after N. F. Katanov with assignment of qualification engineer on the specialty "Information systems and technologies".
+From August 2023 till present time studying in Hexlet to be a java programmer
 <!--
 **blonde2029/blonde2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
